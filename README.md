@@ -27,7 +27,7 @@ While the current simulation relies on reactive routing metrics, future iteratio
 
 
 
-**Project Demonstration:** 
+##
 
 **Project Demonstration Results and Working Video:**
 
