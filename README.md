@@ -27,17 +27,18 @@ While the current simulation relies on reactive routing metrics, future iteratio
 
 
 
+## Simulation Logic
+To provide a stable and visual proof-of-concept, explicit SRv6 paths are modeled using Administrative Distance (AD) floating static routes to demonstrate primary and backup policy switching. 
+- **Primary Path (Metric 10):** R1 -> R2 -> R3 -> R5
+- **Backup Path (Metric 20):** R1 -> R4 -> R5
+
+
 ##
 
 **Project Demonstration Results and Working Video:**
 
 https://drive.google.com/file/d/1Iex-H56wQw4wvJ3ZzDbC6UuMgZHYtzwh/view?usp=drive_link
 
-
-## Simulation Logic
-To provide a stable and visual proof-of-concept, explicit SRv6 paths are modeled using Administrative Distance (AD) floating static routes to demonstrate primary and backup policy switching. 
-- **Primary Path (Metric 10):** R1 -> R2 -> R3 -> R5
-- **Backup Path (Metric 20):** R1 -> R4 -> R5
 
 
 ## Submission Artifacts
