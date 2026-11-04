@@ -5,6 +5,7 @@
 
 https://youtube.com/shorts/8BPljv1aMzc?si=smfUOnd0O37zsrJC  A3-PS020-TC478
 
+
 ## Overview
 This repository contains the final network demonstration for the AIORI-3 Hackathon. It features an IPv6 network topology with simulated Segment Routing (SRv6) traffic engineering and automated failover rerouting.
 
@@ -27,6 +28,11 @@ While the current simulation relies on reactive routing metrics, future iteratio
 
 
 **Project Demonstration:** 
+
+**Project Demonstration Results and Working Video:**
+
+https://drive.google.com/file/d/1Iex-H56wQw4wvJ3ZzDbC6UuMgZHYtzwh/view?usp=drive_link
+
 
 ## Simulation Logic
 To provide a stable and visual proof-of-concept, explicit SRv6 paths are modeled using Administrative Distance (AD) floating static routes to demonstrate primary and backup policy switching. 
